@@ -27,12 +27,15 @@
 - <b>Tech stack used</b></br>
  [![My Skills](https://skillicons.dev/icons?i=py,anaconda,tensorflow,opencv,pytorch,pycharm)](https://skillicons.dev)
 
+<h2>🛡️ Cybersecurity:</h2>
+
+- <b>User Behavior Tracking and Capture Tool</b>
+  - [Tracking tool including keylogger, clipboard manager, screenshot saver and screen recorder]()
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="GalDvorsak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="GalDvorsak | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/galdvorsak/
 [linkedin]: https://www.linkedin.com/in/gal-dvorsak/
 
 <!--
