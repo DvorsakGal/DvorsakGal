@@ -17,6 +17,8 @@
 
 <h2>📊 Data Science Projects:</h2>
 
+- <b>Machine Learning</b>
+  - [Ski Resort Analysis - Final project for intro to intelligent systems and machine learning](https://github.com/DvorsakGal/SkiResortAnalysis)
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [![My Skills](https://skillicons.dev/icons?i=py,anaconda,tensorflow,opencv,pytorch,pycharm)](https://skillicons.dev)
 
