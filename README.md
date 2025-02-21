@@ -22,7 +22,7 @@
 - <b>Data Analysis & Visualization</b>
   - [Data-Driven Analysis of Football Passing Patterns with xT model](https://github.com/DvorsakGal/DataAnalyticsInEliteSports)
 - <b>Computer Vision</b>
-  - [Driver inattention and sleepiness detection]()
+  - [Driver inattention and sleepiness detection](https://github.com/DvorsakGal/DriverInattention)
   - [Image and video processing notebooks]()
 - <b>Tech stack used</b></br>
  [![My Skills](https://skillicons.dev/icons?i=py,anaconda,tensorflow,opencv,pytorch,pycharm)](https://skillicons.dev)
