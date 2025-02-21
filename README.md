@@ -13,7 +13,8 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,java,spring,nodejs,react,py,flask,php,mysql,sqlite,mongodb,firebase,flutter,androidstudio,dart,rabbitmq,git,postman,gradle,maven,idea,pycharm,vscode,aws)](https://skillicons.dev)
+- <b>Tech stack used:</b></br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,java,spring,nodejs,react,py,flask,php,mysql,sqlite,mongodb,firebase,flutter,androidstudio,dart,rabbitmq,git,postman,gradle,maven,idea,pycharm,vscode,aws&perline=14)](https://skillicons.dev)
 
 <h2>📊 Data Science Projects:</h2>
 
@@ -24,7 +25,7 @@
 - <b>Computer Vision</b>
   - [Driver inattention and sleepiness detection](https://github.com/DvorsakGal/DriverInattention)
   - [Image and video processing notebooks](https://github.com/DvorsakGal/ComputerVisionIntro)
-- <b>Tech stack used</b></br>
+- <b>Tech stack used:</b></br>
  [![My Skills](https://skillicons.dev/icons?i=py,anaconda,tensorflow,opencv,pytorch,pycharm)](https://skillicons.dev)
 
 <h2>🛡️ Cybersecurity:</h2>
