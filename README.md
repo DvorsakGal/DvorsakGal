@@ -14,22 +14,28 @@
 - <b>Tech stack used:</b></br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,java,spring,nodejs,react,py,flask,php,mysql,sqlite,mongodb,firebase,flutter,androidstudio,dart,rabbitmq,git,postman,gradle,maven,idea,pycharm,vscode,aws&perline=14)](https://skillicons.dev)
 
+</br>
+
 <h2>📊 Data Science Projects:</h2>
 
-- <b>Machine Learning</b>
-  - [Ski Resort Analysis - Final project for intro to intelligent systems and machine learning](https://github.com/DvorsakGal/SkiResortAnalysis)
 - <b>Data Analysis & Visualization</b>
   - [Data-Driven Analysis of Football Passing Patterns with xT model](https://github.com/DvorsakGal/DataAnalyticsInEliteSports)
+- <b>Machine Learning</b>
+  - [Ski Resort Analysis - Final project for intro to intelligent systems and machine learning](https://github.com/DvorsakGal/SkiResortAnalysis)
 - <b>Computer Vision</b>
   - [Driver inattention and sleepiness detection](https://github.com/DvorsakGal/DriverInattention)
   - [Image and video processing notebooks](https://github.com/DvorsakGal/ComputerVisionIntro)
 - <b>Tech stack used:</b></br>
  [![My Skills](https://skillicons.dev/icons?i=py,anaconda,tensorflow,opencv,pytorch,pycharm)](https://skillicons.dev)
 
+</br>
+
 <h2>🛡️ Cybersecurity:</h2>
 
 - <b>User Behavior Tracking and Capture Tool</b>
   - [Tracking tool including keylogger, clipboard manager, screenshot saver and screen recorder]()
+ 
+</br>
 
 <h2> 🤳 Connect with me:</h2>
 
