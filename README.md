@@ -10,7 +10,7 @@
 - <b>Software Architecture & Backend Development</b>
   - [Solar Community Energy Management System using Jakarta EE](https://github.com/DvorsakGal/HomeSolarPowerPlants)
 - <b>Mobile app - Flutter</b>
-  - [Evently - Event planner](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Evently - Event planner](https://github.com/DvorsakGal/Evently/tree/zagovor_vaje)
 - <b>Tech stack used:</b></br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,java,spring,nodejs,react,py,flask,php,mysql,sqlite,mongodb,firebase,flutter,androidstudio,dart,rabbitmq,git,postman,gradle,maven,idea,pycharm,vscode,aws&perline=14)](https://skillicons.dev)
 
