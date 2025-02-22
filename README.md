@@ -5,12 +5,12 @@
 
 - <b>Observa - Video Surveilance System</b>
   - [Joint final project for the second year of study](https://github.com/DvorsakGal/Observa)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Full Stack Web App focusing on integration</b>
+  - [Physics Learning Assistant](https://github.com/DvorsakGal/PhysicsAssistant)
 - <b>Software Architecture & Backend Development</b>
   - [Solar Community Energy Management System using Jakarta EE](https://github.com/DvorsakGal/HomeSolarPowerPlants)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Mobile app - Flutter</b>
+  - [Evently - Event planner](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Tech stack used:</b></br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,java,spring,nodejs,react,py,flask,php,mysql,sqlite,mongodb,firebase,flutter,androidstudio,dart,rabbitmq,git,postman,gradle,maven,idea,pycharm,vscode,aws&perline=14)](https://skillicons.dev)
 
