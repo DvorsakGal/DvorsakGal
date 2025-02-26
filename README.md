@@ -1,5 +1,4 @@
 <h1>Hi, I'm Gal! <br/>Bachelor of Science in Information Technology and Data Technologies</h1>
-<h2>This is still a work in progress...</h2>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
