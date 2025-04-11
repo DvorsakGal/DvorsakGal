@@ -29,12 +29,6 @@
 
 </br>
 
-<h2>🛡️ Cybersecurity:</h2>
-
-- <b>User Behavior Tracking and Capture Tool</b>
-  - [Tracking tool including keylogger, clipboard manager, screenshot saver and screen recorder]()
- 
-</br>
 
 <h2> 🤳 Connect with me:</h2>
 
