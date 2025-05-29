@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gal! <br/>Bachelor of Science in Informatics and Data Technologies</h1>
+<h1>Hi, I'm Gal! <br/>BSc in Computer Science & Informatics</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
