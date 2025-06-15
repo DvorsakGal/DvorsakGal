@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>FootlyIQ - Intelligent football web platform</b>
+  - [Joint final project in undergraduate studies](https://github.com/FootlyIQ)
 - <b>Observa - Video Surveilance System</b>
   - [Joint final project for the second year of study](https://github.com/DvorsakGal/Observa)
 - <b>Full Stack Web App focusing on integration</b>
@@ -18,7 +20,7 @@
 <h2>📊 Data Science Projects:</h2>
 
 - <b>Data Analysis & Visualization</b>
-  - [Data-Driven Analysis of Football Passing Patterns with xT model](https://github.com/DvorsakGal/DataAnalyticsInEliteSports)
+  - [Data-Driven Analysis of Football Passing Patterns with pass clustering and xT model](https://github.com/DvorsakGal/DataAnalyticsInEliteSports)
 - <b>Machine Learning</b>
   - [Ski Resort Analysis - Final project for intro to intelligent systems and machine learning](https://github.com/DvorsakGal/SkiResortAnalysis)
 - <b>Computer Vision</b>
