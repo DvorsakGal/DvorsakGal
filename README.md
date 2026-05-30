@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gal! <br/>BSc in Computer Science & Informatics</h1>
+<h1>Hi, I'm Gal! <br/>DS master student, BSc in Computer Science & Informatics</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -19,6 +19,8 @@
 
 <h2>📊 Data Science Projects:</h2>
 
+- <b>slOCR: Slovenian-language OCR benchmark</b>
+  - [Developed as part of Data Science project competition at FRI UL](https://huggingface.co/spaces/valira-ai/slo-ocr-benchmark)
 - <b>Data Analysis & Visualization</b>
   - [Data-Driven Analysis of Football Passing Patterns with pass clustering and xT model](https://github.com/DvorsakGal/DataAnalyticsInEliteSports)
 - <b>Machine Learning</b>
